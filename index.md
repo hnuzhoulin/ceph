@@ -1,6 +1,6 @@
 #目录
 
-[#Ceph 介绍](http://ceph.readthedocs.org/zh/latest/README/)
+#Ceph 介绍
 #安装 (快速)
 #安装 
 #Ceph 存储集群
