@@ -8,7 +8,7 @@ Ceph官方文档汉化组是由Ceph中国社区发起的，志愿者自愿参与
 
 文档地址：http://docs.ceph.org.cn
 
-项目负责人：Sptty
+项目负责人：sptty
 
 联系邮箱：sptty@ceph.org.cn‍
 
