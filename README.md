@@ -19,7 +19,7 @@ Ceph官方文档汉化组是由Ceph中国社区发起的，志愿者自愿参与
 - 高华敏kaye
 - Thomas
 - hnuzhoulin
-- 小猴子
+- 小猴子_LHJ
 - sptty
 - 囧囧男
 - 半天河
